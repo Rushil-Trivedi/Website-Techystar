@@ -1,6 +1,5 @@
 # Deployed On
 
-https://techystar-sand.vercel.app/
 https://techystar-lissdpnmd-rushil-trivedis-projects.vercel.app
 
 # Getting Started with Create React App
